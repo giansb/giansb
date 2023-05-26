@@ -1,4 +1,15 @@
-### Hi there 👋
+## Ola, eu me chamo Gian!
+
+<div>
+<a href = "https://github.com/anuraghazra/github-readme-stats">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=giansb&show_icons=true&count_private=true&theme=dracula&height=180em"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giansb&layout=compact&theme=dracula&height=180em)](https://github.com/anuraghazra/github-readme-stats"/>
+</a>
+</div>
+
+
+
+![snake animation](https://github.com/giansb/giansb/blob/output/github-contribution-grid-snake2.svg)
 
 <!--
 **giansb/giansb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
