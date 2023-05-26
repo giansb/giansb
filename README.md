@@ -9,7 +9,7 @@
 
 
 
-![Snake animation](https://github.com/giansb/giansb/blob/output/github-snake-dark.svg)
+![Snake animation](https://github.com/giansb/giansb/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **giansb/giansb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
