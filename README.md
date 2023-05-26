@@ -3,6 +3,8 @@
 <div>
 <a href = "https://github.com/anuraghazra/github-readme-stats">
   <img height="200em" width="50%" src="https://github-readme-stats.vercel.app/api?username=giansb&show_icons=true&count_private=true&theme=dracula&height=180em"/>
+</a>
+<a href = "https://github.com/anuraghazra/github-readme-stats">
   <img height="200em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giansb&layout=compact&theme=dracula&height=180em)](https://github.com/anuraghazra/github-readme-stats"/>
 </a>
 </div>
