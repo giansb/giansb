@@ -11,7 +11,7 @@ Sou desenvolvedor Web front-end, atualmente estudando back-end. Curso Técnico e
 
 
 
-![Snake animation](https://github.com/giansb/giansb/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://github.com/giansb/giansb/blob/output/github-contribution-grid-snake.svg)
 
 
 <div> 
