@@ -1,16 +1,16 @@
  name: Generate snake game
 
-on:
+ on:
   schedule: 
     - cron: "* */12 * * *"
   workflow_dispatch:
 
-jobs:
+ jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # Snake Animation
+
       - uses: Sutil/snk@master
         id: snake-gif
         with:
