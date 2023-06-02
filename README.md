@@ -5,14 +5,12 @@ Sou desenvolvedor Web front-end, atualmente estudando back-end. Curso Técnico e
 <div>
 <a href = "https://github.com/anuraghazra/github-readme-stats">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=giansb&show_icons=true&count_private=true&theme=codeSTACKr"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=giansb&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats"/>
+  <img height="180em"  src="(https://github-readme-stats.vercel.app/api/top-langs/?username=giansb&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=codeSTACKr"/>
 </a>
 </div>
 
-
-
 ![Snake animation](https://github.com/giansb/giansb/blob/output/github-contribution-grid-snake.svg)
-
 
 <div> 
   <a href="https://giansb.github.io/siteportifolio/#/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
