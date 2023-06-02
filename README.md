@@ -5,8 +5,8 @@ Sou desenvolvedor Web front-end, atualmente estudando back-end. Curso Técnico e
 <div>
 <a href = "https://github.com/anuraghazra/github-readme-stats">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=giansb&show_icons=true&count_private=true&theme=codeSTACKr"/>
-  <img height="180em"  src="(https://github-readme-stats.vercel.app/api/top-langs/?username=giansb&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=codeSTACKr"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giansb&layout=compact&theme=codeSTACKr"/>
 </a>
 </div>
 
