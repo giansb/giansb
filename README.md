@@ -12,7 +12,7 @@
 <h1 align="center"> Gian Carlo Braga </h1>
     
 <div align="center">
-<b>Web development | Java development | 3D Modeling | 🎵🎓💬:octocat:💭📷☕</b>
+<b>Web development | Java development | 3D Modeling | 🎵🎓💬💭📷☕</b>
 <br>
 <br>
 
@@ -26,7 +26,7 @@
 
 
 <details closed>
-<summary>About me ⬅️</summary>
+<summary>About me⬅️</summary>
 
 ---
 
@@ -55,8 +55,8 @@ Before starting my studies, I ventured into 3D modeling, having done some person
 <div>
     <div align="right" style="margin:auto">
         <a href="https://wakatime.com/@vcwild">
-            <img width="170em" src="https://github.com/giansb/giansb/assets/107221898/bfabc9a1-2036-476d-85df-538ac2ae66d2"
-                 alt="Wakatime stats" align="right" />
+            <img height="170em" src="https://github.com/giansb/giansb/assets/107221898/bfabc9a1-2036-476d-85df-538ac2ae66d2"
+                 align="right" />
         </a>
     </div>
 
@@ -73,7 +73,7 @@ I'm still looking for an opportunity to put my programming knowledge into practi
 
 ---
 
-
+<h2>Skills</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -83,13 +83,12 @@ I'm still looking for an opportunity to put my programming knowledge into practi
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=giansb&bg_color=363636&color=04c0c3&line=00eeff&point=a8a8a8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=giansb&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div>
 <a href = "https://github.com/anuraghazra/github-readme-stats">
-  <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=giansb&show_icons=true&count_private=true&theme=react"/>
+  <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=giansb&show_icons=true&count_private=true&theme=vue-dark"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giansb&layout=compact&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giansb&layout=compact&theme=vue-dark"/>
 </a>
 </div>
 
