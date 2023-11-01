@@ -21,7 +21,7 @@
 <br>
 
 <blockquote>
-    <p><i>
+    <p><i align='center'>
         "I think it is easy to imagine there are easier paths, But maybe there are no easy paths. There are just paths." - The Midnight Library :	📗 
     </i></p>
 </blockquote>
