@@ -1,7 +1,11 @@
 
 
 
-<img width="100%" src="https://github.com/giansb/giansb/assets/107221898/4bb48f01-bb78-4cb2-8b00-11ec12a9cfb8"/>
+<img width="100%" src="https://github.com/giansb/giansb/assets/107221898/1e833aa9-dda5-499e-b285-e7b6cce7a4f8"/>
+
+
+
+
 
 <div> 
   <a href="https://giansb.github.io/siteportifolio/#/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
@@ -9,10 +13,10 @@
   <a href = "mailto:gianbraga1802@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
-<h1 align="center"> Gian Carlo Braga </h1>
+<h1 align="left"> Gian Carlo Braga </h1>
     
-<div align="center">
-<b>Web development | Java development | 3D Modeling | 🎵🎓💬💭📷☕</b>
+<div align="left">
+<p>Web Development | Java development | 3D Modeling | 💻🎵📷☕</p>
 <br>
 <br>
 
@@ -77,13 +81,13 @@ I'm still looking for an opportunity to put my programming knowledge into practi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,java,mysql,javascript,html,css,react,bootstrap,ps,git,blender,unity,unreal" />
+    <img src="https://skillicons.dev/icons?i=php,java,mysql,javascript,html,css,react,bootstrap,ps,git,blender,unreal" />
   </a>
 </p>
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=giansb&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div>
 <a href = "https://github.com/anuraghazra/github-readme-stats">
   <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=giansb&show_icons=true&count_private=true&theme=vue-dark"/>
