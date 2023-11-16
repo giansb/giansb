@@ -1,7 +1,7 @@
 
 
 
-<img width="100%" src="https://github.com/giansb/giansb/assets/107221898/1e833aa9-dda5-499e-b285-e7b6cce7a4f8"/>
+<img width="100%" src="https://github.com/giansb/giansb/assets/107221898/449291e0-164f-4f93-a5e8-4cc2211a2f01"/>
 
 
 
@@ -22,7 +22,7 @@
 
 <blockquote>
     <p><i align='center'>
-        "I think it is easy to imagine there are easier paths, But maybe there are no easy paths. There are just paths." - The Midnight Library :	📗 
+       “Do or do not, there is no try.”
     </i></p>
 </blockquote>
 </div>
