@@ -86,7 +86,7 @@ I'm still looking for an opportunity to put my programming knowledge into practi
 </div>
 
 
-![snake gif](https://github.com/giansb/giansb/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/giansb/giansb/output/github-contribution-grid-snake-dark.svg)
 
 
 
