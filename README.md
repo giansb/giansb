@@ -1,5 +1,9 @@
 
-<img width="100%" src="https://github.com/giansb/giansb/assets/107221898/5e1c6552-4ca2-4683-b937-237035502424"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giansb/giansb/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giansb/giansb/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/giansb/giansb/output/github-contribution-grid-snake.svg">
+</picture>
 
 <div> 
   <a href="https://giansb.github.io/siteportifolio/#/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
@@ -84,14 +88,3 @@ I'm still looking for an opportunity to put my programming knowledge into practi
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giansb&layout=compact&theme=vue-dark"/>
 </a>
 </div>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giansb/giansb/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giansb/giansb/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/giansb/giansb/output/github-contribution-grid-snake.svg">
-</picture>
-
-
-
-
