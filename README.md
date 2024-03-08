@@ -1,11 +1,5 @@
 
-
-
-<img width="100%" src="https://github.com/giansb/giansb/assets/107221898/449291e0-164f-4f93-a5e8-4cc2211a2f01"/>
-
-
-
-
+<img width="100%" src="https://github.com/giansb/giansb/assets/107221898/5e1c6552-4ca2-4683-b937-237035502424"/>
 
 <div> 
   <a href="https://giansb.github.io/siteportifolio/#/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
@@ -33,11 +27,6 @@
 <summary>About me⬅️</summary>
 
 ---
-
-
-
-
-
 
 <div align="right" style="margin:auto">
      <a href="https://github.com/vcwild">
@@ -96,8 +85,6 @@ I'm still looking for an opportunity to put my programming knowledge into practi
 </a>
 </div>
 
-
-##
 
 
 
