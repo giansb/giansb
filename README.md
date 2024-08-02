@@ -14,7 +14,7 @@
 <h1 align="left"> Gian Carlo Braga </h1>
     
 <div align="left">
-<p>Web Development | Java development | 3D Modeling | 💻🎵📷☕</p>
+<p>Web Development | 3D Modeling | 💻🎵📷☕</p>
 <br>
 <br>
 
@@ -74,7 +74,7 @@ I'm still looking for an opportunity to put my programming knowledge into practi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,java,mysql,javascript,html,css,react,bootstrap,ps,git,blender,unreal" />
+    <img src="https://skillicons.dev/icons?i=php,java,mysql,dotnet,javascript,typescript,react,html,css,bootstrap,git,blender,unreal" />
   </a>
 </p>
 
