@@ -20,55 +20,34 @@
 
 <blockquote>
     <p><i align='center'>
-       “Do or do not, there is no try.”
+       “Your Focus Determines Your Reality.” -Qui-Gon Jinn
     </i></p>
 </blockquote>
 </div>
 
 
 
-<details closed>
-<summary>About me⬅️</summary>
 
----
+
+
 
 <div align="right" style="margin:auto">
      <a href="https://github.com/vcwild">
         <img height="170em"
-             src="https://github.com/giansb/giansb/assets/107221898/92bf1c28-af6b-48e4-bbe5-1284735a59c1"
+             src="https://github.com/user-attachments/assets/f0d24fc4-c850-4cc7-be30-a1481148cd85"
              align="right">
     </a>
 </div>
 
 
-Hello, my name is Gian
+Olá, eu sou o Gian.
 
-I'm currently studying Systems Development Technician, but I started programming by studying front-end through other courses.
+Sou desenvolvedor Web, Técnico em Desenvolvimento de Sistemas formado em  pelo Senac. Atualmente estudo Análise em Desenvolvimento de Sistemas na Unisinos e estagio como desenvolvedor de software na Vortigo. Também modelo em 3D no meu tempo livre com o Blender.
 
-Before starting my studies, I ventured into 3D modeling, having done some personal projects with Blender for Unreal and Unity.
-
-3d modeling has become a hobby for me :)
-
-<div>
-    <div align="right" style="margin:auto">
-        <a href="https://wakatime.com/@vcwild">
-            <img height="170em" src="https://github.com/giansb/giansb/assets/107221898/bfabc9a1-2036-476d-85df-538ac2ae66d2"
-                 align="right" />
-        </a>
-    </div>
-
-I am currently working on a VR project with the 3D team at my institution, the <a href='https://github.com/giansb/VRSenacTech' target='_blank'> repository </a> is being used to document the process.
-
-I'm still looking for an opportunity to put my programming knowledge into practice.
-
-
-
-</div>
-</details>
 
 <br/>
 
----
+
 
 <h2>Skills</h2>
 
