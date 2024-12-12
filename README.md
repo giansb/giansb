@@ -31,13 +31,7 @@
 
 
 
-<div align="right" style="margin:auto">
-     <a href="https://github.com/vcwild">
-        <img height="170em"
-             src="https://github.com/user-attachments/assets/f0d24fc4-c850-4cc7-be30-a1481148cd85"
-             align="right">
-    </a>
-</div>
+
 
 
 Olá, eu sou o Gian.
